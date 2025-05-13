@@ -1,0 +1,26 @@
+.resume-container {
+    height: 29.7cm;
+    width: 21cm;
+}
+
+.resume {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    font-family: 'Funnel Sans', sans-serif;
+    color: black;
+}
+
+.resume-section {
+    padding: 0 56px;
+    margin-top: 40px;
+}
+
+.general-info-section {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

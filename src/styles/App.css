@@ -1,0 +1,8 @@
+.app {
+    display: flex;
+    margin: auto;
+}
+
+body {
+    font-family: 'Funnel Sans', sans-serif;
+}
